@@ -1,3 +1,8 @@
+# ESP32-C3-MiniPID
+This project Forked from https://github.com/tekdemo/MiniPID
+I added a new branch which name is components, Use in any ESP32 Project as a component.
+
+
 # miniPID
 This is a small, fully self contained PID class designed to help provide simple, efficient tuning, and simple integration wherever any level of PID control might be needed. 
 
